@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraMedias",
+            "request": "launch",
+            "mainClass": "CalculadoraMedias",
+            "projectName": "dio-java-basico-depuracao_89e749a1"
+        },
+        {
+            "type": "java",
+            "name": "DebuggingJava",
+            "request": "launch",
+            "mainClass": "DebuggingJava",
+            "projectName": "dio-java-basico-depuracao_89e749a1"
+        }
+    ]
+}
